@@ -1,0 +1,3 @@
+[submodule "gentlebob.github.io"]
+	path = gentlebob.github.io
+	url = git@github-bob:gentlebob/gentlebob.github.io.git
